@@ -4,7 +4,7 @@ from set_of_airlines import SetOfAirlines
 import numpy as np
 
 print('This code was finished on Dec 1st 2024')
-print('This code was written by Emiliano Lane, Samuel Wilson, and Abhigna Isukamatla')
+print('This code was written by Abhigna Isukamatla')
 print('The purpose of this code is to disect and produce detailed info from an excel sheet in order to answer the question: "Does the airline you fly effect the chance your flight is canceled or significantly delayed?"')
 
 dataframe = pd.read_csv("On_Time_Reporting_Carrier_On_Time_Performance_(1987_present)_2024_1.csv")
